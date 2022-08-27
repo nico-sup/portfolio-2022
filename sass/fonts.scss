@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('../typo/Montserrat-Bold.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Montserrat-ExtraBold';
+    src: url('../typo//Montserrat-ExtraBold.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Montserrat-ExtraLight';
+    src: url('../typo/Montserrat-ExtraLight.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('../typo/Montserrat-Medium.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../typo/Montserrat-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url('../typo/Montserrat-SemiBold.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Montserrat-Thin';
+    src: url('../typo/Montserrat-Thin.ttf') format("truetype");
+}
+
+$--typo-bold: 'Montserrat-Bold';
+$--typo-extrabold: 'Montserrat-ExtraBold';
+$--typo-extralight: 'Montserrat-ExtraLight';
+$--typo-medium: 'Montserrat-Medium';
+$--typo-regular: 'Montserrat-Regular';
+$--typo-thin: 'Montserrat-Thin';
